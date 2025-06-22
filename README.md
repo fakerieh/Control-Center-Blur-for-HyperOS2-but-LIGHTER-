@@ -1,5 +1,5 @@
 # Blur Control Center but Lighter!⚡ on HyperOS 2 emerald
-###⚡Feature:
+### ⚡Feature:
 no real-time blur,
 no animation when opening cc,
 more lighter,
