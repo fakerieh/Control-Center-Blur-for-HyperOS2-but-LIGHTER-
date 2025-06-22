@@ -1,7 +1,7 @@
 # Control Center Blur for emerald HyperOS2 (Lighter Version)
 
-A modified and **lightweight** version of Control Center Blur, built specifically for **HyperOS 2** devices.  
-This version sacrifices some real-time effects for **better performance**, **lower RAM/CPU usage**, and a **smoother experience** on low-end or mid-range devices.
+A modified and **lighter** version of Control Center Blur, built specifically for **emerald with HyperOS 2** .  
+This version sacrifices some real-time blur effects for **better performance**, **lower RAM/CPU usage**, and a **smoother experience** on low-end or mid-range devices.
 
 > ⚠️ **Root access is required** to use this module. (Magisk or KernelSU)
 
