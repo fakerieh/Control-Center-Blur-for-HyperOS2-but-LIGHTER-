@@ -6,4 +6,3 @@ Feature
 -AOD transition animation
 -blur volume 
 -ONLY for hyperos 2
-(edit: sorry i put the wrong file)
