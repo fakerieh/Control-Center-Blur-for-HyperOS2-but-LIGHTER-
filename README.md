@@ -1,34 +1,68 @@
-# Blur Control Center but Lighter!⚡ on HyperOS 2 emerald
-## 📘 About
+# Control Center Blur for emerald HyperOS2 (Lighter Version)
 
-**Control Center Blur for HyperOS2 but LIGHTER** is a lightweight mod that brings back the blur (frosted glass) effect to the Control Center, Notification Shade, and Volume Panel in HyperOS 2 — designed to be smooth, minimal, and clean.
+A modified and **lightweight** version of Control Center Blur, built specifically for **HyperOS 2** devices.  
+This version sacrifices some real-time effects for **better performance**, **lower RAM/CPU usage**, and a **smoother experience** on low-end or mid-range devices.
 
-> ⚠️ **Root access is required** to apply this modification.
+> ⚠️ **Root access is required** to use this module. (Magisk or KernelSU)
 
-### 🔍 Background
-HyperOS 2 has removed the blur effect from several UI components, likely for performance or battery-saving reasons. While other mods exist, many are too heavy or bundled with unnecessary features. This project focuses solely on restoring blur — nothing else.
+---
 
-### 🎯 Purpose
-To re-enable the clean and modern blur effect across essential UI elements in HyperOS 2 using the lightest and most efficient method possible, for users who are already rooted.
+## 🔧 Features
 
-### ⚙️ Key Features
-- ✅ **Restores Blur Effect** to Control Center, Notifications, and Volume Panel  
-- ✅ **Root Required** — works by modifying system resources  
-- ✅ **Lightweight Implementation** — avoids bloated code or unnecessary UI changes  
-- ✅ **Reversible** — can be uninstalled or restored with a backup  
+- ❌ **No real-time blur** (for performance)
+- ❌ **No animation when opening Control Center** (for fast access and less cpu usage)
+- ✅ **Lighter**
+- ✅ **Minimal CPU and RAM usage**
+- ✅ **AOD (Always-On Display) transition animation**
+- ✅ **Blurred volume panel**
+- ✅ **Blurred Power Menu**
+- ⚠️ **Only for HyperOS 2**
+- ⚠️ **Some effects disabled intentionally to keep the system light**
 
-### 🧭 Target Users
-Ideal for:
-- Users on **HyperOS 2.x**
-- Devices with **root access**
-- Those who prefer a clean, fast, and minimal mod
-- Users who want **aesthetic blur back**, without installing a custom ROM
-### 🖼️Screenshots 
-![Screenshot_2025_06_22_15_27_49_297_com_mi_android_globallauncher](https://github.com/user-attachments/assets/4b9851ad-3d64-419c-b5f7-80c5dd08dc08)
-![Screenshot_2025_06_22_15_28_10_463_com_mi_android_globallauncher](https://github.com/user-attachments/assets/9d45aa08-a5a6-4054-9cd5-fe89ab7e33cc)
-![Screenshot_2025_06_22_15_28_01_129_com_mi_android_globallauncher](https://github.com/user-attachments/assets/0781e340-eb5d-4b59-a8fb-bda224eb4844)
-![Screenshot_2025_06_22_15_27_53_848_com_mi_android_globallauncher](https://github.com/user-attachments/assets/1d3fe5be-53fa-49af-8af2-a33e44d940b9)
-![Screenshot_2025-06-22-15-28-15-165_lockscreen](https://github.com/user-attachments/assets/68d08275-a13a-4a5b-b866-451bf8b65068)
+---
+
+## 📷 Screenshots
+
+![Screenshot_2025_06_22_15_27_49_297_com_mi_android_globallauncher](https://github.com/user-attachments/assets/85461d96-2d3a-4c67-99ef-7e7018e3076e)
+![Screenshot_2025_06_22_15_27_53_848_com_mi_android_globallauncher](https://github.com/user-attachments/assets/e6f6fe85-6203-4b91-aa80-7649f0cf8f63)
+![Screenshot_2025_06_22_15_28_01_129_com_mi_android_globallauncher](https://github.com/user-attachments/assets/25394ed1-ae5b-4165-b4e4-c1710f0d2752)
+![Screenshot_2025_06_22_15_28_10_463_com_mi_android_globallauncher](https://github.com/user-attachments/assets/eed40282-7341-4037-adca-ca8f87c8e932)
+![Screenshot_2025-06-22-15-28-15-165_lockscreen](https://github.com/user-attachments/assets/6b433479-a962-477f-91d8-b2f513fe882f)
 
 
-https://github.com/user-attachments/assets/34834ac2-f07e-43cf-9052-52690d912b96
+---
+
+## 📦 Requirements
+
+- Xiaomi/POCO device with **HyperOS 2**
+- **Root access**
+- **Magisk** (latest version recommended)
+
+---
+
+## 📥 Installation
+
+1. Download the `.zip` module from the [Releases](https://github.com/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-/releases).
+2. Open the Magisk app.
+3. Tap **Modules > Install from storage**, then select the downloaded `.zip` file.
+4. Reboot your device.
+5. Done!
+
+---
+
+## ❌ Uninstallation
+
+1. Open **Magisk**.
+2. Go to **Modules** and remove **Control Center Blur (Lighter Version)**.
+3. Reboot your device.
+
+---
+
+## ⚠️ Disclaimer
+
+This module is provided **as-is** with no warranty.  
+Use at your own risk. The author is not responsible for any potential damage or malfunction.
+
+---
+
+**Created by [Fakeri](https://github.com/fakerieh)**
