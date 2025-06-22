@@ -1,4 +1,5 @@
 # Control Center Blur for emerald HyperOS2 (Lighter Version)
+![ChatGPT Image Jun 22, 2025, 04_52_33 PM](https://github.com/user-attachments/assets/84b06ee4-e7f3-4cf3-b192-3558408a2993)
 
 A modified and **lighter** version of Control Center Blur, built specifically for **emerald with HyperOS 2** .  
 This version sacrifices some real-time blur effects for **better performance**, **lower RAM/CPU usage**, and a **smoother experience** on low-end or mid-range devices.
