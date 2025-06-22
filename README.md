@@ -30,6 +30,11 @@ This version sacrifices some real-time blur effects for **better performance**, 
 ![Screenshot_2025-06-22-15-28-15-165_lockscreen](https://github.com/user-attachments/assets/6b433479-a962-477f-91d8-b2f513fe882f)
 
 
+
+https://github.com/user-attachments/assets/1863f8ae-d1d5-4614-ad8d-3cfa18b548c5
+
+
+
 ---
 
 ## 📦 Requirements
