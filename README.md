@@ -34,9 +34,9 @@ This version sacrifices some real-time effects for **better performance**, **low
 
 ## 📦 Requirements
 
-- Xiaomi/POCO device with **HyperOS 2**
+- Redmi/POCO emerald device with **HyperOS 2**
 - **Root access**
-- **Magisk** (latest version recommended)
+- **Magisk or KernelSU** (latest version recommended)
 
 ---
 
@@ -66,3 +66,5 @@ Use at your own risk. The author is not responsible for any potential damage or 
 ---
 
 **Created by [Fakeri](https://github.com/fakerieh)**
+
+#emeraldforever
