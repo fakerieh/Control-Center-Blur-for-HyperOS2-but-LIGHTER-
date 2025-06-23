@@ -101,4 +101,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 Q: btw you may ask, why is it emerald only mentioned? 
 
-A: bcs we haven't test it on the other devices, u can still can try it by yourself and tell me **DWYOR**
+A: bcs we haven't test it on the other devices, u can still can try it by yourself and tell me 
+
+**DWYOR**
