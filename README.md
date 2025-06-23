@@ -6,6 +6,10 @@ This version sacrifices some real-time blur effects for **better performance**, 
 
 > ⚠️ **Root access is required** to use this module. (Magisk or KernelSU)
 
+## ❓NON-Root
+For NON-Root device watch the tutorial here [Click Me!](https://www.tiktok.com/@emerald_g99/video/7451981653653654790?is_from_webapp=1&sender_device=pc&web_id=7509390879649957384)
+
+
 ---
 
 ## 🔧 Features
