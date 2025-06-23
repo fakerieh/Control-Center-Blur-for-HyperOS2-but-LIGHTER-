@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/1863f8ae-d1d5-4614-ad8d-3cfa18b548c5
 ## 📥 Installation
 
 1. Download the `.zip` module from the [Releases](https://github.com/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-/releases).
-2. Open the Magisk app.
+2. Open the Magisk/KernelSU app.
 3. Tap **Modules > Install from storage**, then select the downloaded `.zip` file.
 4. Reboot your device.
 5. Done!
@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/1863f8ae-d1d5-4614-ad8d-3cfa18b548c5
 
 ## ❌ Uninstallation
 
-1. Open **Magisk**.
+1. Open **Magisk/KernelSU**.
 2. Go to **Modules** and remove **Control Center Blur (Lighter Version)**.
 3. Reboot your device.
 
@@ -78,3 +78,5 @@ Use at your own risk. The author is not responsible for any potential damage or 
 **Created by [Fakeri](https://github.com/fakerieh)**
 
 #emeraldforever
+
+btw you may ask, why is it emerald only mentioned? bcs we haven't test it on the other devices, u can still can try it by yourself and tell me **DWYOR**
