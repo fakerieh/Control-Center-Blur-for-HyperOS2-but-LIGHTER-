@@ -77,6 +77,11 @@ Use at your own risk. The author is not responsible for any potential damage or 
 
 **Created by [Fakeri](https://github.com/fakerieh)**
 
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./LICENSE) file for details.
+
+
 #emeraldforever
 
 btw you may ask, why is it emerald only mentioned? bcs we haven't test it on the other devices, u can still can try it by yourself and tell me **DWYOR**
