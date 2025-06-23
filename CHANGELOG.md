@@ -5,7 +5,7 @@
 **What's new?**
 - Added `banner`🖼️
 - Added `customize.sh` so installation page more aesthetic✨
-- More info join [https://t.me/EmeraldDiscuss](url)
+- For more info join [https://t.me/EmeraldDiscuss](url)
 
 # V1
-My first project!
+Hello World
