@@ -95,7 +95,9 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ---
 
-#emeraldforever
+#emeraldforever 
+
+<img src="https://raw.githubusercontent.com/fakerieh/Control-Center-Blur-for-emerald-HyperOS2-Light-Version/refs/heads/main/banner/Emerald_JE3_BE3.png" width="100">
 
 Q: btw you may ask, why is it emerald only mentioned? 
 
