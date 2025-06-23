@@ -29,16 +29,21 @@ For NON-Root device watch the tutorial here [Click Me!](https://www.tiktok.com/@
 
 ## 📷 Screenshots
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/85461d96-2d3a-4c67-99ef-7e7018e3076e" width="300"/>
-  <img src="https://github.com/user-attachments/assets/e6f6fe85-6203-4b91-aa80-7649f0cf8f63" width="300"/>
-  <img src="https://github.com/user-attachments/assets/25394ed1-ae5b-4165-b4e4-c1710f0d2752" width="300"/>
-  <img src="https://github.com/user-attachments/assets/eed40282-7341-4037-adca-ca8f87c8e932" width="300"/>
-  <img src="https://github.com/user-attachments/assets/6b433479-a962-477f-91d8-b2f513fe882f" width="300"/>
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/85461d96-2d3a-4c67-99ef-7e7018e3076e" width="120"/>
+  <img src="https://github.com/user-attachments/assets/e6f6fe85-6203-4b91-aa80-7649f0cf8f63" width="120"/>
+  <img src="https://github.com/user-attachments/assets/25394ed1-ae5b-4165-b4e4-c1710f0d2752" width="120"/>
+  <img src="https://github.com/user-attachments/assets/eed40282-7341-4037-adca-ca8f87c8e932" width="120"/>
+  <img src="https://github.com/user-attachments/assets/6b433479-a962-477f-91d8-b2f513fe882f" width="120"/>
 </p>
 
 
-https://github.com/user-attachments/assets/1863f8ae-d1d5-4614-ad8d-3cfa18b548c5
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/1863f8ae-d1d5-4614-ad8d-3cfa18b548c5">
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="80"/><br/>
+    <b>Click to watch demo video</b>
+  </a>
+</p>
 
 
 
