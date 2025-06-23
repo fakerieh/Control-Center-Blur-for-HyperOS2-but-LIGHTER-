@@ -9,7 +9,9 @@ This version sacrifices some real-time blur effects for **better performance**, 
 > ⚠️ **Root access is required** to use this module. (Magisk or KernelSU)
 
 ## ❓NON-Root
-For NON-Root device watch the tutorial here [Click Me!](https://www.tiktok.com/@emerald_g99/video/7451981653653654790?is_from_webapp=1&sender_device=pc&web_id=7509390879649957384)
+For NON-Root device watch the tutorial here
+
+[![Watch on TikTok](https://img.shields.io/badge/Tutorial%20Video-TikTok-blueviolet?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@emerald_g99/video/7451981653653654790?is_from_webapp=1&sender_device=pc&web_id=7509390879649957384)
 
 
 ---
@@ -84,6 +86,8 @@ Use at your own risk. The author is not responsible for any potential damage or 
 ---
 
 **Created by [Fakeri](https://github.com/fakerieh)**
+
+[![Join Telegram](https://img.shields.io/badge/Join-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EmeraldDiscuss)
 
 ## License
 
