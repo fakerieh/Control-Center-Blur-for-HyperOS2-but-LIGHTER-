@@ -103,8 +103,8 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 <img src="https://raw.githubusercontent.com/fakerieh/Control-Center-Blur-for-emerald-HyperOS2-Light-Version/refs/heads/main/banner/Emerald_JE3_BE3.png" width="100">
 
-Q: btw you may ask, why is it emerald only mentioned? 
+Q: you may wonder, why is it only emerald mentioned? 
 
-A: bcs we haven't test it on the other devices, u can still can try it by yourself and tell me 
+A: bcs we haven't test it on the other devices, u can still try it by yourself and tell me
 
 **DWYOR**
