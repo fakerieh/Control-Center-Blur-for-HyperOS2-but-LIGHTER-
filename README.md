@@ -29,12 +29,13 @@ For NON-Root device watch the tutorial here [Click Me!](https://www.tiktok.com/@
 
 ## 📷 Screenshots
 
-![Screenshot_2025_06_22_15_27_49_297_com_mi_android_globallauncher](https://github.com/user-attachments/assets/85461d96-2d3a-4c67-99ef-7e7018e3076e)
-![Screenshot_2025_06_22_15_27_53_848_com_mi_android_globallauncher](https://github.com/user-attachments/assets/e6f6fe85-6203-4b91-aa80-7649f0cf8f63)
-![Screenshot_2025_06_22_15_28_01_129_com_mi_android_globallauncher](https://github.com/user-attachments/assets/25394ed1-ae5b-4165-b4e4-c1710f0d2752)
-![Screenshot_2025_06_22_15_28_10_463_com_mi_android_globallauncher](https://github.com/user-attachments/assets/eed40282-7341-4037-adca-ca8f87c8e932)
-![Screenshot_2025-06-22-15-28-15-165_lockscreen](https://github.com/user-attachments/assets/6b433479-a962-477f-91d8-b2f513fe882f)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85461d96-2d3a-4c67-99ef-7e7018e3076e" width="300"/>
+  <img src="https://github.com/user-attachments/assets/e6f6fe85-6203-4b91-aa80-7649f0cf8f63" width="300"/>
+  <img src="https://github.com/user-attachments/assets/25394ed1-ae5b-4165-b4e4-c1710f0d2752" width="300"/>
+  <img src="https://github.com/user-attachments/assets/eed40282-7341-4037-adca-ca8f87c8e932" width="300"/>
+  <img src="https://github.com/user-attachments/assets/6b433479-a962-477f-91d8-b2f513fe882f" width="300"/>
+</p>
 
 
 https://github.com/user-attachments/assets/1863f8ae-d1d5-4614-ad8d-3cfa18b548c5
