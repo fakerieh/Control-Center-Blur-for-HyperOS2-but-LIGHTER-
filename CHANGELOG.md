@@ -1,3 +1,9 @@
+# V1.3
+**What's new?**
+- `Renamed` the module name (Please remove the old module)
+- Minor Changes
+- For more info join [Emerald Discussion](https://t.me/EmeraldDiscuss).
+
 # V1.2
 **What's new?**
 - Minor Changes
