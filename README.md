@@ -1,7 +1,7 @@
-# Control Center Blur for emerald HyperOS2 (Lighter Version) 
+# Control Center Blur for emerald HyperOS2 (Lite Version) 
 ![Picsart_25-06-23_22-24-54-105](https://github.com/user-attachments/assets/2e30c556-aa1f-44e9-944c-15f8b9614099)
 
-A modified and **lighter** version of Control Center Blur, built specifically for **emerald with HyperOS 2** .  
+A modified and **Lite** version of Control Center Blur, built specifically for **HyperOS 2** .  
 This version sacrifices some real-time blur effects for **better performance**, **lower RAM/CPU usage**, and a **smoother experience** on low-end or mid-range devices.
 
 [![Releases](https://img.shields.io/github/v/release/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-?label=Download%20Releases&style=for-the-badge&logo=github)](https://github.com/fakerieh/Control-Center-Blur-for-HyperOS2-but-LIGHTER-/releases)
@@ -54,7 +54,7 @@ For NON-Root device watch the tutorial here
 
 ## 📦 Requirements
 
-- Redmi/POCO emerald device with **HyperOS 2**
+- Redmi/POCO device with **HyperOS 2**
 - **Root access**
 - **Magisk or KernelSU** (latest version recommended)
 
@@ -73,7 +73,7 @@ For NON-Root device watch the tutorial here
 ## ❌ Uninstallation
 
 1. Open **Magisk/KernelSU**.
-2. Go to **Modules** and remove **Control Center Blur (Lighter Version)**.
+2. Go to **Modules** and remove **LiteBlur-HyperOS2**.
 3. Reboot your device.
 
 ---
@@ -102,9 +102,5 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 #emeraldforever 
 
 <img src="https://raw.githubusercontent.com/fakerieh/Control-Center-Blur-for-emerald-HyperOS2-Light-Version/refs/heads/main/banner/Emerald_JE3_BE3.png" width="100">
-
-Q: you may wonder, why is it only emerald mentioned? 
-
-A: bcs we haven't test it on the other devices, u can still try it by yourself and tell me
 
 **DWYOR**
