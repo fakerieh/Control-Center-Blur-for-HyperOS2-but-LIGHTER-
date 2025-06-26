@@ -19,7 +19,9 @@ For NON-Root device watch the tutorial here
 ## 🔧 Features
 
 - ❌ **No real-time blur** (for performance)
-- ❌ **No animation when opening Control Center** (for fast access and less cpu usage)
+- ❌ **No animation when opening Control Center** (for fast access and less cpu usage) [Preview](https://github.com/user-attachments/assets/9812762f-b54a-4a67-910e-011628cfda3d)
+
+
 - ✅ **Lighter**
 - ✅ **Minimal CPU and RAM usage**
 - ✅ **AOD (Always-On Display) transition animation**
