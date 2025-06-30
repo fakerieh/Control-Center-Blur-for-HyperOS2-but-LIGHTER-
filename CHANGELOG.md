@@ -1,3 +1,10 @@
+# V1.4
+### What's new?
+- Updating the `setup page`✨  (clean look)
+- Removed `unnecessary files`
+- Minor Changes
+- For more info join [Emerald Discussion](https://t.me/EmeraldDiscuss).
+
 # V1.3
 **What's new?**
 - `Renamed` the module name (Please remove the old module)
