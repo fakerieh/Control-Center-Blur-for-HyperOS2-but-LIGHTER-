@@ -2,6 +2,7 @@
 ### What's new?
 - Updating the `setup page`✨  (clean look)
 - Removed `unnecessary files`
+- Fix the blur doesn't apply
 - Minor Changes
 - For more info join [Emerald Discussion](https://t.me/EmeraldDiscuss).
 
