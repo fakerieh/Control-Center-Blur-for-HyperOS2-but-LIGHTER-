@@ -1,3 +1,10 @@
+# V1.4Fix
+### What's new?
+- Fix the blur doesn't apply
+- Fix error module isn't installed 
+- Minor Changes
+- For more info join [Emerald Discussion](https://t.me/EmeraldDiscuss).
+
 # V1.4
 ### What's new?
 - Updating the `setup page`✨  (clean look)
